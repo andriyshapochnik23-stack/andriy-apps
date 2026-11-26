@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-26T21:03:04+00:00",
+ "updated": "2026-11-26T21:14:52+00:00",
  "apps": [
   {
    "package": "ua.andriy.budylnyk",
    "name": "Будильник",
-   "versionCode": 6,
-   "versionName": "1.4.1",
-   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/budylnyk-1.4.1/Budylnyk-1.4.1.apk",
-   "sha256": "c196ab7ba887c29d3f691df8418389e48d788de2a15cba0472c8f1e3326120cc",
-   "size": 1488264,
+   "versionCode": 7,
+   "versionName": "1.5",
+   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/budylnyk-1.5/Budylnyk-1.5.apk",
+   "sha256": "649247adb4475a07a88c7f25e1cb322e900156afaa6e351636f9ecfec0beb814",
+   "size": 1493064,
    "cert": "46ab5ae2f50da632e0a703fb2e28a18842d986179c77e2211ccc57d61cdea3ef",
-   "changelog": "Виправлено: годинник на екрані будильника тепер повністю влазить у ширину",
+   "changelog": "Графік: кнопка «ЗМІНИТИ РОЗКЛАД» — вкажи, який сьогодні день циклу (Р1…/В1…), з переглядом на 14 днів; швидкий зсув графіка на ±1 день; минулі дні не змінюються",
    "date": "2026-11-26"
   },
   {
