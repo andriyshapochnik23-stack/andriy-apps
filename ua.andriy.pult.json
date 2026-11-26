@@ -1,0 +1,12 @@
+{
+ "package": "ua.andriy.pult",
+ "name": "Пульт",
+ "versionCode": 7,
+ "versionName": "1.3.1",
+ "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/pult-1.3.1/Pult-1.3.1.apk",
+ "sha256": "442dab0caa345649e5de148076960be7e796f1cd2e29e765eb2571ec309b3451",
+ "size": 1178260,
+ "cert": "4197d11891db50520b5321f877fc44a5f2d38a31dd5af2583fbcaf0233e1cdbe",
+ "changelog": "Оновлення тепер з GitHub — працює з мобільного інтернету, ПК вмикати не треба.\nОпції → Оновлення → «Перевірити».",
+ "date": "2026-11-26"
+}
