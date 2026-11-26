@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:43:03+00:00",
+ "updated": "2026-11-26T20:43:18+00:00",
  "apps": [
   {
    "package": "ua.andriy.budylnyk",
@@ -11,6 +11,18 @@
    "size": 1467920,
    "cert": "46ab5ae2f50da632e0a703fb2e28a18842d986179c77e2211ccc57d61cdea3ef",
    "changelog": "Оновлення тепер з GitHub — працює з мобільного інтернету, ПК вмикати не треба.\nКілька будильників на день, свій час на будь-яку дату (з 1.1).",
+   "date": "2026-11-26"
+  },
+  {
+   "package": "ua.andriy.dots.icons",
+   "name": "Точки — іконки",
+   "versionCode": 1,
+   "versionName": "1.0",
+   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/dots-icons-1.0/Dots-Icons-1.0.apk",
+   "sha256": "b9710e1651c92254a2976ae58a4360d7dc395f3d6bb5fd34b688fe2084c6fc41",
+   "size": 2137643,
+   "cert": "ec0f41986b10c366fe03b0f511ca929c1f22c2f7ca90102aaaa8dfc134d65f1c",
+   "changelog": "Набір іконок «Точки» у стилі Nothing.",
    "date": "2026-11-26"
   },
   {
