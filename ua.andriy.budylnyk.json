@@ -1,0 +1,12 @@
+{
+ "package": "ua.andriy.budylnyk",
+ "name": "Будильник",
+ "versionCode": 3,
+ "versionName": "1.2",
+ "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/budylnyk-1.2/Budylnyk-1.2.apk",
+ "sha256": "cae4650fd224d54132488cca61a8604c01c7a134ed00ef22f51a99543c9422a7",
+ "size": 1467920,
+ "cert": "46ab5ae2f50da632e0a703fb2e28a18842d986179c77e2211ccc57d61cdea3ef",
+ "changelog": "Оновлення тепер з GitHub — працює з мобільного інтернету, ПК вмикати не треба.\nКілька будильників на день, свій час на будь-яку дату (з 1.1).",
+ "date": "2026-11-26"
+}
