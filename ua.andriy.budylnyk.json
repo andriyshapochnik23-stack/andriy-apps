@@ -1,12 +1,12 @@
 {
  "package": "ua.andriy.budylnyk",
  "name": "Будильник",
- "versionCode": 5,
- "versionName": "1.4",
- "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/budylnyk-1.4/Budylnyk-1.4.apk",
- "sha256": "123be99636460f1af351179ef8bef763b17336de6740544ef160d340337ca29b",
- "size": 1486664,
+ "versionCode": 6,
+ "versionName": "1.4.1",
+ "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/budylnyk-1.4.1/Budylnyk-1.4.1.apk",
+ "sha256": "c196ab7ba887c29d3f691df8418389e48d788de2a15cba0472c8f1e3326120cc",
+ "size": 1488264,
  "cert": "46ab5ae2f50da632e0a703fb2e28a18842d986179c77e2211ccc57d61cdea3ef",
- "changelog": "Видалення будильників прямо з головної (✕ або утримання, з «ПОВЕРНУТИ»), повзунок гучності будильника в «Надійність»",
+ "changelog": "Виправлено: годинник на екрані будильника тепер повністю влазить у ширину",
  "date": "2026-11-26"
 }
