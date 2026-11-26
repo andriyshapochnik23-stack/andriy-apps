@@ -1,1 +1,17 @@
-{"apps":[]}
+{
+ "updated": "2026-11-26T20:42:19+00:00",
+ "apps": [
+  {
+   "package": "ua.andriy.svitlo",
+   "name": "Світло",
+   "versionCode": 11,
+   "versionName": "3.6",
+   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/svitlo-3.6/Svitlo-3.6.apk",
+   "sha256": "2ce680098fe6d996aef0af8ca1f3f690ed54d9a30312af34008e6a4182bee6b7",
+   "size": 1191176,
+   "cert": "c14412f6b4ebb010957a127405dcadf4e4652a9835104373553b2d3474afb744",
+   "changelog": "Оновлення тепер з GitHub — працює з мобільного інтернету, ПК вмикати не треба.\nОпції → Оновлення → «Перевірити»; там же список інших моїх додатків.",
+   "date": "2026-11-26"
+  }
+ ]
+}
