@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-27T16:33:11+00:00",
+ "updated": "2026-11-27T19:34:07+00:00",
  "apps": [
   {
    "package": "ua.andriy.audioknyhy",
    "name": "Аудіокниги",
-   "versionCode": 1,
-   "versionName": "1.0",
-   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/audioknyhy-1.0/Audioknyhy-1.0.apk",
-   "sha256": "18ded84b39a3f283c9cdd7c6ee24c267a7bdad23a1a7bf68ff92055ef5ffaa89",
-   "size": 1789600,
+   "versionCode": 2,
+   "versionName": "1.0.1",
+   "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/audioknyhy-1.0.1/Audioknyhy-1.0.1.apk",
+   "sha256": "8a0f86861322678ab68cd13acb3dc27f850cce0c948b70169ac4a8fc3e712044",
+   "size": 1790344,
    "cert": "559352a5b2be4b69f84e1717fa4ea80f905a1a1087bb0b091ff1b620dc90258f",
-   "changelog": "Перша версія. Плеєр аудіокниг: вставляєш посилання на сторінку книги (akniga.org та інші сайти) — застосунок сам знаходить аудіо й розділи. Фонове відтворення, екран блокування, навушники, ±15/30 с, швидкість 0.75–2.5×, таймер сну, закладки, точне продовження з місця. Якщо аудіо не знайшлося — ВЕБ-РЕЖИМ із плеєром сайту.",
+   "changelog": "Виправлено перемотку: смуга тепер перемотує точно в межах поточного розділу і не стрибає назад, кнопки ±15/±30 с правильно переходять між розділами й не вилітають за кінець книги.",
    "date": "2026-11-27"
   },
   {
