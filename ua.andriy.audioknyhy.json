@@ -1,0 +1,12 @@
+{
+ "package": "ua.andriy.audioknyhy",
+ "name": "Аудіокниги",
+ "versionCode": 1,
+ "versionName": "1.0",
+ "apk": "https://github.com/andriyshapochnik23-stack/andriy-apps/releases/download/audioknyhy-1.0/Audioknyhy-1.0.apk",
+ "sha256": "18ded84b39a3f283c9cdd7c6ee24c267a7bdad23a1a7bf68ff92055ef5ffaa89",
+ "size": 1789600,
+ "cert": "559352a5b2be4b69f84e1717fa4ea80f905a1a1087bb0b091ff1b620dc90258f",
+ "changelog": "Перша версія. Плеєр аудіокниг: вставляєш посилання на сторінку книги (akniga.org та інші сайти) — застосунок сам знаходить аудіо й розділи. Фонове відтворення, екран блокування, навушники, ±15/30 с, швидкість 0.75–2.5×, таймер сну, закладки, точне продовження з місця. Якщо аудіо не знайшлося — ВЕБ-РЕЖИМ із плеєром сайту.",
+ "date": "2026-11-27"
+}
